@@ -1,0 +1,7 @@
+/data/stronglogic/ultralight/build/CMakeFiles/rebuild_cache.dir
+/data/stronglogic/ultralight/build/CMakeFiles/edit_cache.dir
+/data/stronglogic/ultralight/build/samples/CMakeFiles/rebuild_cache.dir
+/data/stronglogic/ultralight/build/samples/CMakeFiles/edit_cache.dir
+/data/stronglogic/ultralight/build/samples/khtml_render/CMakeFiles/rebuild_cache.dir
+/data/stronglogic/ultralight/build/samples/khtml_render/CMakeFiles/edit_cache.dir
+/data/stronglogic/ultralight/build/samples/khtml_render/CMakeFiles/khtml_renderer.dir
